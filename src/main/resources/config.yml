@@ -1,0 +1,6 @@
+ssl:
+  protocol: 'TLSv1.2'
+  cert:
+    path:
+      - '/home/'
+
